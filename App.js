@@ -1,0 +1,41 @@
+/**
+ * Sample React Native App
+ * https://github.com/facebook/react-native
+ *
+ * @format
+ * @flow strict-local
+ */
+
+import React from 'react';
+import type {Node} from 'react';
+import {
+  SafeAreaView,
+  ScrollView,
+  StatusBar,
+  StyleSheet,
+  Text,
+  useColorScheme,
+  View,
+} from 'react-native';
+
+import {
+  Colors,
+  DebugInstructions,
+  Header,
+  LearnMoreLinks,
+  ReloadInstructions,
+} from 'react-native/Libraries/NewAppScreen';
+import HomeScreen from './App/Screen/HomeScreen/HomeScreen';
+import RootList from './App/Screen/RouteListScreen/RootList';
+const App = () => {
+  return (
+    <View style={{flex: 1}}>
+      <HomeScreen />
+      {/* <RootList /> */}
+    </View>
+  );
+};
+
+const styles = StyleSheet.create({});
+
+export default App;
