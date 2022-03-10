@@ -2,7 +2,7 @@ import {StyleSheet} from 'react-native';
 const styles = StyleSheet.create({
   HeaderContainer: {
     width: '100%',
-    height: '23%',
+    height: '5%',
   },
   HeaderImage: {
     width: '100%',
@@ -14,12 +14,12 @@ const styles = StyleSheet.create({
     color: '#000',
   },
   ListContainer: {
-    flex: 1,
-    marginTop: '8%',
-    borderWidth: 1,
-    borderColor: '#f0c0c0',
+    marginTop: '5%',
     width: '90%',
+    height: '90%',
     alignSelf: 'center',
+    marginBottom: '5%',
+    backgroundColor: '#fff',
   },
 });
 export default styles;

@@ -1,0 +1,42 @@
+export default [
+  {
+    id: '0',
+    region: 'Flevoland',
+    name: 'Nationaal park new land, Oostvaardersplaasen en Lelstad ,33km',
+    title_color: '#sefefef',
+    Image: '../../Assest/Images/MaskGroup3@2x.png',
+    tags: ['Musa', 'Eet-an dringle sff', 'kust'],
+  },
+  {
+    id: '1',
+    region: 'Flevoland',
+    name: 'Nationaal park new land, Oostvaardersplaasen en Lelstad ,33km',
+    title_color: '#Fe23',
+    Image: '../../Assest/Images/Group4@2x.png',
+    tags: ['Musa', 'Eet-an dringle sff', 'kust'],
+  },
+  {
+    id: '2',
+    region: 'Flevoland',
+    name: 'Nationaal park new land, Oostvaardersplaasen en Lelstad ,33km',
+    title_color: '#F0e3',
+    Image: '../../Assest/Images/MaskGroup3@2x.png',
+    tags: ['Musa', 'Eet-an dringle sff', 'kust'],
+  },
+  {
+    id: '3',
+    region: 'Flevoland',
+    name: 'Nationaal park new land, Oostvaardersplaasen en Lelstad ,33km',
+    title_color: '#d0d2',
+    Image: '../../Assest/Images/Group4@2x.png',
+    tags: ['Musa', 'Eet-an dringle sff', 'kust'],
+  },
+  {
+    id: '4',
+    region: 'Flevoland',
+    name: 'Nationaal park new land, Oostvaardersplaasen en Lelstad ,33km',
+    title_color: '#d0d2',
+    Image: '../../Assest/Images/Group4@2x.png',
+    tags: ['Musa', 'Eet-an dringle sff', 'kust'],
+  },
+];

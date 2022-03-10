@@ -30,8 +30,8 @@ import RootList from './App/Screen/RouteListScreen/RootList';
 const App = () => {
   return (
     <View style={{flex: 1}}>
-      <HomeScreen />
-      {/* <RootList /> */}
+      {/* <HomeScreen /> */}
+      <RootList />
     </View>
   );
 };
